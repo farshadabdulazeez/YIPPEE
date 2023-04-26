@@ -1,0 +1,276 @@
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
+.header{
+    width: 95%;
+    height: 100px;
+    text-align: start;
+    line-height: 24px;
+    font-size: 16px;
+    letter-spacing: normal;
+   background-color: #fe5000;
+   padding-left: 5%;
+   vertical-align: middle;
+   display: inline-block;
+}
+.logo1{
+    width: 150px;
+    height: 90px;
+    float: left;
+    margin-top: 10px;
+}
+.header a {
+    float: left;
+    color: #ffff;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left: -5px;
+    margin-right: -5px;
+    padding-top: 50px;
+    text-decoration: none;
+    font-size: 17px;
+    font-weight: bolder;
+  }
+  .desc-nav{
+  margin-left: 240px;
+  }
+  .logo2{
+    width: 70px;
+    height: 80px;
+    float: left;
+    margin-left: 270px;
+    line-height: 24px;
+    margin-top: 10px;
+}
+.image{
+    width: 100%;
+}
+.recipeee{
+height: 100px;
+padding-left: 535px;
+padding-right: 435px;
+padding-top:40p;
+}
+.recipetext{
+    color: #5f249f;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 15px;
+    line-height: 26px;
+    letter-spacing: normal;
+    font-weight: 900;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Poppins',
+
+
+}
+.img1{
+    width: 30%;
+    float: left;
+    padding-left: 80px;
+    padding-top: 15px;
+
+}
+.img2{
+    width: 30%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.img3{
+    width: 30%;
+    float: left;
+    padding-left: 30px;
+    padding-top: 15px;
+}
+.text1{
+    float: left;
+    padding-left: 100px;
+    color: black;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Poppins',
+}
+.text2{
+    float: left;
+    padding-left: 170px;
+    margin-left: 100px;
+    color: black;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Poppins',
+}
+.text3{
+    float: left;
+    padding-left: 170px;
+    margin-left: 100px;
+    color: black;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Poppins',
+}
+.box3{
+    width: 100%;
+    height: 790px;
+    margin-top: 500px;
+    background-color: #db291d;
+}
+.recpimg{
+    width: 540px;
+    float: right;
+    padding-left: 1000px;
+    height: 120px;
+    font-size: 16px;
+   padding-left: 535px;
+   padding-right: 435px;
+   padding-top:65px;
+}
+
+.recpimg2{
+    width: 40%;
+    float: left;
+    padding-left: 100px;
+}
+.recipeLOL{
+    width: 40%;
+    float:right;
+    padding-right: 100px;
+}
+.element-heading{
+
+    padding-left: 40px;
+    color: #ffffff;
+    font-size: 26px;
+    line-height: 26px;
+    letter-spacing: normal;
+    font-family: "Brady Bunch Remastered", sans-serif;
+
+}
+.list{
+    color: #ffffff;
+    font-size: large;
+    height: 100px;
+    padding-left: 100px;
+    padding-top: 0px;
+    
+}
+.exploretext{
+    padding-top: 0px;
+
+}
+.curve{
+    width: 100%;
+    height: 480px;
+}
+.getsocial{
+    width: 25%;
+    position: absolute;
+    top: 2100px;
+    padding-left: 500px;
+}
+.text{
+    color: #7c2529;
+    width: 20%;
+    position: absolute;
+    top: 310%;
+    left: 40%;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Poppins',
+    
+}
+.texttwo{
+    color: #7c2529;
+    width: 20%;
+    position: absolute;
+    top: 320%;
+    left: 45%;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-family: 'Poppins',
+    
+}
+.facebook{
+width: 8%;
+height: 16%;
+position: absolute;
+top: 330%;
+left: 30%;
+}
+.twitter{
+    width: 8%;
+    height: 15%;
+    position: absolute;
+    top: 330%;
+    left: 40%;
+}
+.instagram{
+    width: 7%;
+    height: 15%;
+    position: absolute;
+    top: 330%;
+    left: 50%;
+}
+.youtube{
+    width: 8%;
+    height: 20%;
+    position: absolute;
+    top: 328%;
+    left: 60%;
+}
+.footer{
+    width: 100%;
+    height: 450px;
+    background-color: #e2211c;
+}
+.logo_div{
+    width: 20%;
+    height: 450px;
+    background-color: #e2211c;
+    float: left;
+}
+.logoone{
+    width: 60%;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+.noodle_div{
+    width: 20%;
+    height: 450px;
+    background-color: #e2211c;;
+    float: left;
+}
+.about_div{
+    width: 20%;
+    height: 450px;
+    background-color: #e2211c;;
+    float: left;
+}
+.pasta_div{
+    width: 20%;
+    height: 450px;
+    background-color: #e2211c;;
+    float: left;
+}
+.logo2_div{
+    width: 20%;
+    height: 450px;
+    background-color: #e2211c;
+    float: left;
+}  
+.logotwo{
+    width: 30%;
+    padding-left: 100px;
+    padding-top: 80px;
+}
+.footlist li{
+    list-style: none;
+    color: #ffffff;
+    line-height: 40px;
+    font-weight: bold;
+}
+h1{
+    text-align: center;
+    padding-right: 100px;
+    color: #ffffff;
+}
